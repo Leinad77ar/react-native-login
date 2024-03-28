@@ -2,7 +2,7 @@
   "name": "passport-rememberme-examples-login",
   "version": "0.0.0",
   "dependencies": {
-    "express": "4.18.1",
+    "express": "4.19.2",
     "connect-flash": "0.1.x",
     "ejs-locals": "1.x.x",
     "passport": "0.1.x",
